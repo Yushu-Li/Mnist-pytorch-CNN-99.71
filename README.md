@@ -1,4 +1,4 @@
-# Mnist-pytorch-CNN-99.71%
+# Mnist-pytorch-CNN-99.71
 
 无需下载数据可以直接运行
 
@@ -7,10 +7,9 @@
 
 ## 项目结构
 + train.py 用于训练模型
-+ Test.py 用于测试模型
++ test.py 用于测试模型
 + data 存放Mnist数据集
 
 
 ##联系方式
 + treeben09@gmail.com
-# Mnist-pytorch-CNN-99.71-
